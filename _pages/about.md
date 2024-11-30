@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**xx**
+**Students**
+
+*School of Information Science and Technology*
 *ShanghaiTech University*
 
 Yuhao Shu is 
