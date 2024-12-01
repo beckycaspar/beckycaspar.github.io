@@ -18,13 +18,13 @@ His current research interests include embedded memory design, in-memory computi
 
 ## Education Experience
 Sep. 2019 - Dec. 2024: **University of Chinese Academy of Sciences/ShanghaiTech University**
-* **Ph.D.** in Microelectronic and Solid-electronics
+* **Ph.D.** in Electronic Science and Technology
 * Dissertation: **Design and Optimization of Memory and In-Memory Computing Circuits for Cryogenic CMOS**
   -  Supervisor: Prof. [Yajun Ha](https://sist.shanghaitech.edu.cn/hayj/main.htm)
   -  First-prize Scholarship of Zhangjiang  Laboratory (2022, 2023, 2024)
 
 Sep. 2015 - Jun. 2019: **Hefei University of Technology (HFUT)**
-* **B.S.** in Microelectronics Science and Engineering 
+* **B.S.** in Electronic Science and Technology 
 
 ## Academic Services
 ### Reviewer
