@@ -21,12 +21,12 @@ Sep. 2019 - Dec. 2024: **University of Chinese Academy of Sciences/ShanghaiTech 
 * **Ph.D.** in Microelectronic and Solid-electronics
 * Dissertation: **Design and Optimization of Memory and In-Memory Computing Circuits for Cryogenic CMOS**
   -  Supervisor: Prof. [Yajun Ha](https://sist.shanghaitech.edu.cn/hayj/main.htm)
-  -  First Prize Scholarship of Zhangjiang Laborator (2022, 2023, 2024)
+  -  First-prize Scholarship of Zhangjiang  Laboratory (2022, 2023, 2024)
 
 Sep. 2015 - Jun. 2019: **Hefei University of Technology (HFUT)**
 * **B.S.** in Microelectronics Science and Engineering 
 
 ## Academic Services
-**Reviewer**
+### Reviewer
 * IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II 2022 - Present)
 * IEEE International Symposium on Circuits and Systems (ISCAS, Since 2023)
