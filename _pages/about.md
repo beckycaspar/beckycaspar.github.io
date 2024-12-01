@@ -17,7 +17,14 @@ Yuhao Shu received the B.S. degree in microelectronics science and engineering f
 His current research interests include embedded memory design, in-memory computing, cryogenic CMOS circuits, and energy-efficient circuit and system designs.
 
 ## Education Experience
-2015.09-2019.06
+Sep. 2019 - Dec. 2024: **University of Chinese Academy of Sciences/ShanghaiTech University**
+* **Ph.D.** in Microelectronic and Solid-electronics
+* Dissertation: **Design and Optimization of Memory and In-Memory Computing Circuits for Cryogenic CMOS**
+  -  Supervisor: Prof. [Yajun Ha](https://sist.shanghaitech.edu.cn/hayj/main.htm)
+  -  First Prize Scholarship of Zhangjiang Laborator (2022, 2023, 2024)
+
+Sep. 2015 - Jun. 2019: **Hefei University of Technology (HFUT)**
+* **B.S.** in Microelectronics Science and Engineering 
 
 ## Academic Services
 **Reviewer**
